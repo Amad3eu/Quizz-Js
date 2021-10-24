@@ -4,8 +4,8 @@
     <img src="icons\Interface.PNG" alt="Amadeu Calculator"  width="550em">
 </p>
 
-A few months ago
-I had made a calculator, very simple even with a base of (Html, Css, Js) and as I am in a transition from Js and in the evolution process I decided to develop and evolve the calculator project!
+I'm daily doing simple and fun exercises to sharpen my Javascript, I'm happy with my progress!
+
 
 ## :mortar_board: Author
 
